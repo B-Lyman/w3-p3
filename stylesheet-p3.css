@@ -1,0 +1,223 @@
+
+
+
+
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+
+
+
+html, body, h1, h2, h3, p, ol, li, a {
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+
+
+
+.background {
+    background-color: #93e6ff;
+    background-image: url(green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    background-size: cover; 
+    background-position: center; 
+    height: 840px;
+    width: 100%;
+    
+
+} 
+
+
+
+
+.top_bar {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.Freshest {   
+    color: #f1f1f1;
+    padding: 10px;
+       
+}
+
+
+.hmc a {   
+    word-spacing: 8px;
+    color: #f1f1f1;
+    padding: 10px;
+    float: right;
+    text-decoration: none;
+}
+
+
+.white_bar {
+
+    background: #f1f1f1;
+    height: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+
+}
+
+
+.disc {
+    word-spacing: 8px;
+    color: #f1f1f1;
+    padding: 10px;
+    
+    margin: 0 auto;
+    margin-top: 350px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+
+}
+
+
+.white_bar-2 {
+
+    background: #f1f1f1;
+    height: 2px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    
+
+}
+
+.disc h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+
+.disc h2 {
+    margin-top: 30px;
+    font-size: 60px;
+    font-family: Montserrat;
+}
+
+
+.bread {
+    background: #000000;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+
+.bread h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding-bottom: 35px;
+
+}
+
+.bread_i {
+    width: 500px; 
+    height: 400px; 
+    background-image: url(human-holding-a-bread-745988.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    float: left; 
+}
+
+
+.fruit {
+
+    background: #1f1f1f;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 25px;
+}
+
+.fruit h1 {
+    
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding-bottom: 35px;
+}
+
+.fruit_i {
+    width: 500px; 
+    height: 400px; 
+    background-image: url(green-pineapple-fruit-with-brown-framed-sunglasses-beside-1161547.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    float: right; 
+}
+
+.pasta {
+    background: #303030;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 25px;
+}
+
+.pasta h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding-bottom: 35px;
+}
+
+.pasta_i {
+    width: 500px; 
+    height: 400px; 
+    background-image: url(cooked-pasta-on-brown-wooden-bowl-803963.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    float: left; 
+}
